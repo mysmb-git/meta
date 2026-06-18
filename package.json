@@ -74,7 +74,7 @@
     "commitizen": "^3.1.1",
     "cz-conventional-changelog": "^2.1.0",
     "husky": "^2.4.1",
-    "jest": "^24.8.0",
+    "jest": "^30.4.2",
     "meta-gh": "^1.1.0",
     "meta-npm": "^1.2.0",
     "meta-yarn": "^1.1.0",
